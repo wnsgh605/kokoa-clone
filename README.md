@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-Starting from tomorrow, cloning Kokoa talk
+-- Starting from tomorrow, cloning Kokoa talk.
