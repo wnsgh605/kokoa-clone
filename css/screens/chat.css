@@ -189,3 +189,6 @@
 .types:focus-within {
   transform: none;
 }
+.keyboard {
+  height: 230px;
+}
