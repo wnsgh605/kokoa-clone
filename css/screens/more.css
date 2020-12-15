@@ -1,0 +1,47 @@
+.user-component__subtitle .fa-exclamation-circle {
+  color: tomato;
+  margin-left: 5px;
+}
+.user-component__column .fa-comment-alt {
+  font-size: 25px;
+}
+.icon-row__icon .fa-inbox {
+  position: relative;
+}
+.more__new {
+  position: absolute;
+  top: -15px;
+  right: -8px;
+}
+.more-suggestion {
+  border-top: var(--main-border);
+  padding-top: 20px;
+}
+.more-suggestion__title {
+  font-size: 13px;
+  letter-spacing: 0;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.more-suggestion img {
+  width: 45px;
+  height: 45px;
+  border-radius: 5px;
+}
+.more-suggestion__icons {
+  display: flex;
+}
+.more-suggestion__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 15px;
+}
+.more-suggestion__text {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.5);
+  letter-spacing: 0;
+}
