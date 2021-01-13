@@ -1,5 +1,5 @@
 # Kokoa Clone
 
--- Starting from tomorrow, cloning Kokoa talk.
+Cloning Kakao talk.
 
 used (html, css via vscode)
